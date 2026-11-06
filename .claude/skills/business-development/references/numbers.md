@@ -36,5 +36,8 @@ Last updated: 2026-11-06. Currency: NGN (₦) unless noted.
 
 _Add a dated row whenever figures change._
 
+- 2026-11-06 — Founder salary: none so far; founder has drawn from company funds informally. When analysing statements, tag these as owner drawings.
+- 2026-11-06 — Statements coming: RND Jan–Oct 2026, plus all historical statements (GTBank, AltBank, Providus, Pocket, Stanbic IBTC), Gear statements on paper.
+
 - 2026-11-06 — RND Multimedia: about ₦60–70m total revenue since starting official operations in 2022 (founder's estimate). Over ~4–5 years that averages roughly ₦13–17m a year, about ₦1.1–1.5m a month. This is an average only; the 2026 figure may be higher.
 - 2026-11-06 — Illustrative money-rule split at ₦1.3m/month: venture fund ≈ ₦130k/month, founder salary ≈ ₦195–260k/month. Conclusion: RND has to grow before it can fund two new ventures.

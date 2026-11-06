@@ -13,6 +13,7 @@ Last updated: 2026-11-06 (session 2)
 | Company | What it does | Status (Nov 2026) | Role in group |
 |---|---|---|---|
 | RND Multimedia Limited | Creative / media company | Operating, earning revenue | Cash engine; future in-house creative agency for the group |
+| RND Gear (equipment rentals) | Equipment rental division of RND | Operating; **not** registered at CAC, so legally part of RND, not a subsidiary | Track as a separate division in the books |
 | Pan Oneal Global | Vertical accelerator for healthcare and education startups: helps doctors and education specialists run schools and hospitals for unbanked populations, using a premium payment model | Not yet launched | First new venture to prove (pilot cohort 2027) |
 | 37 Signals & Co | Nigerian-based financial hub: market news, reports, newsletter, M&A and big-deal coverage; founder's trading strategy; financial services; trading/copy product later | Concept stage | Media + research first, regulated trading products later |
 
@@ -40,6 +41,18 @@ Three layers, in order:
 
 **Open issue — tax:** professional services (e.g. accounting, advisory) are excluded from the small-company tax exemption under the Nigeria Tax Act 2025, so the finance-services arm may pay CIT regardless of size. Confirm with a tax adviser.
 
+## Banking setup (as of Nov 2026)
+
+| Bank | Use | Status |
+|---|---|---|
+| Stanbic IBTC | Main RND account: all client payments come in here | Current |
+| Alternative Bank (AltBank) | Operations: staff, salaries, running costs, funded by transfers from Stanbic | Current |
+| GTBank | Earlier RND account | Historical; consider closing after statements are pulled |
+| Providus Bank | Earlier RND account | Historical; consider closing after statements are pulled |
+| Pocket app | Gear (equipment rental) money | Check if still used |
+
+Rule: money moving Stanbic → AltBank is an internal transfer for operations, not new income or a cost.
+
 ## People and partners
 
 | Role | Venture | Status |
@@ -66,3 +79,5 @@ Three layers, in order:
 - 2026-11-06 — 37 Signals & Co repositioned as a financial media/research hub first; founder's own verified trading record second; copy/strategy product last, via a licensed platform. (Recommended; founder to confirm.)
 - 2026-11-06 — Recommended: no retail prop firm.
 - 2026-11-06 — Recommended: keep the three as sister companies under the Symmetry brand until a holdco is justified; get a Nigerian tax adviser before relying on the small-company exemption.
+- 2026-11-06 — Gear (equipment rentals) stays a division of RND, not a separate company, for now.
+- 2026-11-06 — Founder has not been paying themself a salary and has been drawing from company money. Recommended: fixed monthly founder salary from 2027 and no more ad hoc withdrawals.
