@@ -1,0 +1,9 @@
+# Private financial data: bank statements and raw exports are never committed
+financials/raw/
+financials/private/
+*.pdf
+*.zip
+*.csv
+*.xlsx
+*.xls
+*.ofx
